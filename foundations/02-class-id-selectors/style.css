@@ -1,0 +1,17 @@
+.a{
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+    background-color: coral;
+    font-size: x-small;
+}
+.a.c{
+    font-size: small;
+}
+#two{
+    color: blue;
+    font-size: large;
+}
+#four{
+    background-color: greenyellow;
+    font-size: small;
+    font-weight: bold;
+}
